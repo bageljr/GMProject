@@ -8,3 +8,8 @@ Steps for setup:
 4. Run "cd gm-app" and "npm install" commands to setup client web app
 5. Run "npm run dev" to run servers and launch app
 
+When App is Running:
+- Search by client name using search bar
+- Leave search bar blank to get all time sheet entries
+- Create new entry using the form and press submit to save
+
